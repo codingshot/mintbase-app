@@ -32,7 +32,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Mintbase Engineering</title>
+        <title>Minting on NEAR</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero />
